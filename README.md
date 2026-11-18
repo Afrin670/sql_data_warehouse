@@ -1,4 +1,3 @@
-<img width="1133" height="764" alt="Data Architecture-Page-1 drawio" src="https://github.com/user-attachments/assets/9646ef3a-bfcd-4bc2-bcee-518318f2e812" /># Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
